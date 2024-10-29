@@ -1,8 +1,8 @@
 # android_apk_assis_27190
 
-Assis 27190 - Deputado Estadual. App oficial do candidato Assis 27190.
+App oficial do candidato Assis 27190 - Deputado Estadual (eleições 2014 - São Paulo - Brasil)
 
-(Oct. 2024) Made in Android Studio Ladybug | 2024.2.1 Patch 1
+(Oct. 2024) This release: Android Studio Ladybug | 2024.2.1 Patch 1
 
 compileSdk = 34
 minSdk = 21 (android 5) 2014
