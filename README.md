@@ -2,7 +2,7 @@
 
 App oficial do candidato Assis 27190 - Deputado Estadual (eleições 2014 - São Paulo - Brasil)
 
-(Oct. 2024) This release:
+(Oct. 2024) This release, v. 9.0:
 
 compileSdk = 34
 
